@@ -1,4 +1,4 @@
-function foo(x) {
+function foo(x, foo) {
   let x += 5;
   let y = 3;
 
