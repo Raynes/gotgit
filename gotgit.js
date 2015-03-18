@@ -1,7 +1,5 @@
 function foo(x) {
-  //let x += 5;
-  //let y = 3;
-  var y;
+  var y; //x is already defined. look up.
   x += 5;
   y = 3;
 
